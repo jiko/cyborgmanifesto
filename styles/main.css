@@ -14,36 +14,17 @@ h1 {
   font-weight: 400;
   text-align: center; }
 
-h3 {
-  text-align: center; }
-
 blockquote {
   font-size: 16pt;
   font-family: "europa", Futura, "Gill Sans", Helvetica, sans-serif;
   font-weight: 400;
   quotes: none; }
 
-time {
-  font-size: 14pt;
-  display: block; }
-
-ol {
-  margin: 10px;
-  font-size: 18pt; }
-
-ul {
-  list-style: none;
-  font-size: 18pt; }
-
-.page {
-  padding: 0 1em; }
-
-a:visited {
-  color: #003366; }
+a { color: #003366; }
+a:visited, a:active, a:hover { color: #423f47; }
 
 .front {
   font-weight: 300;
   font-family: "europa", Futura, "Gill Sans", Helvetica, sans-serif; }
 
-img {
-  width: 100%; }
+img { width: 100%; }
