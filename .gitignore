@@ -1,0 +1,6 @@
+*.pyc
+clj/
+js/
+lua/
+CREDS
+.oauth
