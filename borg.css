@@ -22,4 +22,6 @@ a:visited, a:active, a:hover { color: #423f47; }
   font-weight: 300;
   font-family: "europa", Futura, "Gill Sans", Helvetica, sans-serif; }
 
-img { width: 100%; }
+.lf { width: 100%; }
+
+.gh { float: right; }
