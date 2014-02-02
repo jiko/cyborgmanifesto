@@ -8,12 +8,6 @@ body {
   max-width: 600px;
   padding: 15px; }
 
-h1 {
-  font-size: 42pt;
-  margin: 45px 0;
-  font-weight: 400;
-  text-align: center; }
-
 blockquote {
   font-size: 16pt;
   font-family: "europa", Futura, "Gill Sans", Helvetica, sans-serif;
@@ -24,6 +18,7 @@ a { color: #003366; }
 a:visited, a:active, a:hover { color: #423f47; }
 
 .front {
+  font-size: 18pt;
   font-weight: 300;
   font-family: "europa", Futura, "Gill Sans", Helvetica, sans-serif; }
 
