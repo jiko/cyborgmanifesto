@@ -2,15 +2,10 @@
 <html lang="en">
 
 <head>
-  <title>{{ site.title }}</title>
+  <title>{{ page.title }}</title>
   <meta charset="utf-8">
   <meta name="author" content="Donna Haraway">
-  {% if page.description %}
-    {% assign description = page.description %}
-  {% else %}
-    {% assign description = site.description %}
-  {% endif %}
-  <meta name="description" content="{{ description }}">
+  <meta name="description" content="{{ page.description }}">
   <meta name="viewport" content="width=device-width, initial-scale=0.8, minimum-scale=0.7, maximum-scale=1.0">
   <link rel="stylesheet" type="text/css" href="/styles/normalize.css">
   <link rel="stylesheet" type="text/css" href="/styles/main.css">
