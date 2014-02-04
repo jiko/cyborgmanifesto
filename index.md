@@ -477,7 +477,7 @@ them.</p>
 
 
 
-<p>Catherine MacKinnon's (198Z, 1987) version of radical feminism is itself
+<p>Catherine MacKinnon's (198/, 1987) version of radical feminism is itself
 a caricature of the appropriating, incorporating, totalizing tendencies
 of Western theories of identity grounding action. It is factually and
 politically wrong to assimilate all of the diverse 'moments' or 'conversations'
@@ -1296,11 +1296,11 @@ relations of science and technology, there might indeed be a feminist science.</
 
 
 <p>I want to conclude with a myth about idendty and boundaries which might
-inform late twentieth-century political imaginations (Plate 1). I am indebted
+inform late twentieth-century political imaginations. I am indebted
 in this story to writers like Joanna Russ, Samuel R. Delany, John Varley,
-James Tiptree, Jr, Octavia Butler, Monique Wittig, and Vonda McIntyre.
+James Tiptree Jr, Octavia Butler, Monique Wittig, and Vonda McIntyre.
 These are our story-tellers exploring what it means to be embodied in high-tech
-worlds. They are theorists for cyborgs. Exploring concephons of bodily boundaries
+worlds. They are theorists for cyborgs. Exploring conceptions of bodily boundaries
 and social order, the anthropologist Mary Douglas (1966, 1970) should be
 credited with helping us to consciousness about how fundamental body imagery
 is to world view, and so to political language.</p>
@@ -1314,7 +1314,7 @@ imagery of fragmentation and reconstitution of bodies.</p>
 
 
 
-<p>American radical feminists like Susan Griffnn, Audre Lorde, and Adrienne
+<p>American radical feminists like Susan Griffin, Audre Lorde, and Adrienne
 Rich have profoundly affected our political imaginations - and perhaps restricted
 too much what we allow as a friendly body and political language. They
 insist on the organic, opposing it to the technological. But their symbolic
@@ -1323,8 +1323,8 @@ replete with organicisms, can only be understood in Sandoval's terms as
 oppositional ideologies fitting the late twentieth-century. They would simply
 bewilder anyone not preoccupied with the machines and consciousness of late
 capitalism. In that sense they are part of the cyborg world. But there are
-also great riches for feminists in explicitly embracing the possibilides
-inherent in the breakdown of clean disdnctions between organism and machine
+also great riches for feminists in explicitly embracing the possibilities
+inherent in the breakdown of clean distinctions between organism and machine
 and similar distinctions structuring the Western self. It is the simultaneity
 of breakdowns that cracks the matrices of domination and opens geometric
 possibilities. What might be learned from personal and political 'technological'
@@ -1354,19 +1354,19 @@ the 'cheap' female labour so attractive to the multinationals.</p>
 
 
 
-<p>Contrary to orientalist stereotypes of the 'oral primidve', literacy
+<p>Contrary to orientalist stereotypes of the 'oral primitive', literacy
 is a special mark of women of colour, acquired by US black women as well
 as men through a history of risking death to learn and to teach reading
-and wridng. Writing has a special significance for all colonized groups.
+and writing. Writing has a special significance for all colonized groups.
 Writing has been crucial to the Western myth of the distinction between
 oral and written cultures, primitive and civilized mentalities, and more
 recently to the erosion of that distinction in 'postmodernist' theories
-attacking the phallogo-centrism of the West, with its worship of the monotheistic,
+attacking the phallogocentrism of the West, with its worship of the monotheistic,
 phallic, authoritative, and singular work, the unique and perfect name.
 Contests for the meanings of writing are a major form of contemporary political
 struggle. Releasing the play of writing is deadly serious. The poetry and
 stories of US women of colour are repeatedly about writing, about access
-to the power to signify; but this dme that power must be neither phallic
+to the power to signify; but this time that power must be neither phallic
 nor innocent. Cyborg writing must not be about the Fall, the imagination
 of a once-upon-a-time wholeness before language, before writing, before
 Man. Cyborg writing is about the power to survive, not on the basis of original
@@ -1379,8 +1379,8 @@ marked them as other.</p>
 displace the hierarchical dualisms of naturalized identities. In retelling
 origin stories, cyborg authors subvert the central myths of origin of Western
 culture. We have all been colonized by those origin myths, with their longing
-for fulfilment in apocalypse. The phallogocentrie origin stories most crucial
-for feminist cyborgs are built into the literal technologies - teehnologies
+for fulfilment in apocalypse. The phallogocentric origin stories most crucial
+for feminist cyborgs are built into the literal technologies - technologies
 that write the world, biotechnology and microelectronics - that have recently
 textualized our bodies as code problems on the grid of C3I. Feminist cyborg
 stories have the task of recoding communication and intelligence to subvert
@@ -1391,7 +1391,7 @@ command and control.</p>
 <p>Figuratively and literally, language politics pervade the struggles of
 women of colour; and stories about language have a special power in the
 rich contemporary writing by US women of colour. For example, retellings
-of the stom~ of the indigenous woman Malinche, mother of the mesdzo 'bastard'
+of the story of the indigenous woman Malinche, mother of the mestizo 'bastard'
 race of the new world, master of languages, and mistress of Cortes, carry
 special meaning for Chicana constructions of identity. Cherrie Moraga (1983)
 in Loving in the War Years explores the themes of identity when one never
@@ -1404,7 +1404,7 @@ of the conqueror's language -- a violation, an illegitimate production,
 that allows survival. Moraga's language is not 'whole'; it is self-consciously
 spliced, a chimera of English and Spanish, both conqueror's languages. But
 it is this chimeric monster, without claim to an original language before
-violation, that crafts the erode, competent, potent identities of women
+violation, that crafts the erotic, competent, potent identities of women
 of colour. Sister Outsider hints at the possibility of world survival not
 because of her innocence, but because of her ability to live on the boundaries,
 to write without the founding myth of original wholeness, with its inescapable
@@ -1428,7 +1428,7 @@ That is why cyborg politics insist on noise and advocate pollution, rejoicing
 in the illegitimate fusions of animal and machine. These are the couplings
 which make Man and Woman so problematic, subverting the structure of desire,
 the force imagined to generate language and gender, and so subverting the
-structure and modes of reproduction of 'Western' idendty, of nature and
+structure and modes of reproduction of 'Western' identity, of nature and
 culture, of mirror and eye, slave and master, body and mind. 'We' did not
 originally choose to be cyborgs, but choice grounds a liberal politics and
 epistemology that imagines the reproduction of individuals before the wider
@@ -1456,7 +1456,7 @@ masculinist fear into the originally literate mother who teaches survival.</p>
 
 
 <p>This is not just literary deconstruction, but liminal transformation.
-Every, story that begins with original innocence and privileges the return
+Every story that begins with original innocence and privileges the return
 to wholeness imagines the drama of life to be individuation, separation,
 the birth of the self, the tragedy of autonomy, the fall into writing, alienation;
 that is, war, tempered by imaginary respite in the bosom of the Other. These
@@ -1465,16 +1465,16 @@ abstraction. In this plot women are imagined either better or worse off,
 but all agree they have less selflhood, weaker individuation, more fusion
 to the oral, to Mother, less at stake in masculine autonomy. But there is
 another route to having less at stake in masculine autonomy, a route that
-does not pass through Woman, Primitive, Zero, the Mirror Stage and its imaginaw.
+does not pass through Woman, Primitive, Zero, the Mirror Stage and its imagining.
 It passes through women and other present-tense, illegitimate cyborgs, not
 of Woman born, who refuse the ideological resources of victimization so
 as to have a real life. These cyborgs are the people who refuse to disappear
-on cue, no matter how many dmes a 'western' commentator remarks on the sad
+on cue, no matter how many times a 'western' commentator remarks on the sad
 passing of another primitive, another organic group done in by 'Western'
 technology, by writing. These real-life cyborgs (for example, the Southeast
-Asian village women workers inJapanese and US electronics firms described
-by Aihwa Ong) are actively rewriting the texts of their bodies and sociedes.
-Sumival is the stakes in this play of readings.</p>
+Asian village women workers in Japanese and US electronics firms described
+by Aihwa Ong) are actively rewriting the texts of their bodies and societies.
+Survival is the stakes in this play of readings.</p>
 
 
 
@@ -1483,9 +1483,9 @@ they have all been systemic to the logics and practices of domination of
 women, people of colour, nature, workers, animals - in short, domination
 of all constituted as others, whose task is to mirror the self. Chief among
 these troubling dualisms are self/other, mind/body, culture/nature, male/female,
-civilized/primitive, reality/appearance, whole/part, agent/resource, maker/
-made, active/passive, right/wrong, truth/illusion, totaVpartial, God/man.
-The self is the One who is not dominated, who knows that by the semice of
+civilized/primitive, reality/appearance, whole/part, agent/resource, maker/made,
+active/passive, right/wrong, truth/illusion, total/partial, God/man.
+The self is the One who is not dominated, who knows that by the semice (sic?) of
 the other, the other is the one who holds the future, who knows that by
 the experience of domination, which gives the lie to the autonomy of the
 self. To be One is to be autonomous, to be powerful, to be God; but to be
@@ -1519,13 +1519,13 @@ of a cyborg, hybrid of girl's brain and complex machinery, formed after
 the birth of a severely handicapped child. Gender, sexuality, embodiment,
 skill: all were reconstituted in the story. Why should our bodies end at
 the skin, or include at best other beings encapsulated by skin? From the
-seventeenth century dll now, machines could be animated - given ghostly
+seventeenth century until now, machines could be animated - given ghostly
 souls to make them speak or move or to account for their orderly development
-and mental capacides. Or organisms could be mechan-ized - reduced to body
-understood as resource of mind. These machine/ organism relationships are
+and mental capacities. Or organisms could be mechanized - reduced to body
+understood as resource of mind. These machine/organism relationships are
 obsolete, unnecessary. For us, in imagination and in other practice, machines
 can be prosthetic devices, intimate components, friendly selves. We don't
-need organic holism to give impermeable whole-ness, the total woman and
+need organic holism to give impermeable wholeness, the total woman and
 her feminist variants (mutants?). Let me conclude this point by a very partial
 reading of the logic of the cyborg monsters of my second group of texts,
 feminist science fiction.</p>
@@ -1534,8 +1534,8 @@ feminist science fiction.</p>
 
 <p>The cyborgs populating feminist science fiction make very problematic
 the statuses of man or woman, human, artefact, member of a race, individual
-endty, or body. Katie King clarifies how pleasure in reading these fictions
-is not largely based on idendfication. Students facingJoanna Russ for the
+entity, or body. Katie King clarifies how pleasure in reading these fictions
+is not largely based on identification. Students facing Joanna Russ for the
 first time, students who have learned to take modernist writers like James
 Joyce or Virginia Woolf without flinching, do not know what to make of The
 Adventures of Alyx or The Female Man, where characters refuse the reader's
@@ -1547,19 +1547,19 @@ the growing scandal of gender. The feminist science fiction of Samuel R.
 Delany, especially Tales of Neveyon, mocks stories of origin by redoing
 the neolithic revolution, replaying the founding moves of Western civilization
 to subvert their plausibility. James Tiptree, Jr, an author whose fiction
-was regarded as particularly manly undl her 'true' gender was revealed,
+was regarded as particularly manly until her 'true' gender was revealed,
 tells tales of reproduction based on non-mammalian technologies like alternation
 of generations of male brood pouches and male nurturing. John Varley
 constructs a supreme cyborg in his arch-feminist exploration of Gaea,
 a mad goddess-planet-trickster-old woman-technological device on whose surface
 an extraordinary array of post-cyborg symbioses are spawned. Octavia Butler
-writes of an African sorceress pithug her powers of transformation against
-the genetic manipulations of her rival (Wild Seed), of dme warps that bring
+writes of an African sorceress pitting her powers of transformation against
+the genetic manipulations of her rival (Wild Seed), of time warps that bring
 a modern US black woman into slavery where her actions in relation to her
 white master-ancestor determine the possibility of her own birth (Kindred),
-and of the illegidmate insights into idendty and community of an adopted
-cross-species child who came to know the enem' as self (Survivor). In Dawn
-(1987), the first instalment of a series called Xenogenesis, Butler tells
+and of the illegitimate insights into identity and community of an adopted
+cross-species child who came to know the enemy as self (Survivor). In Dawn
+(1987), the first installment of a series called Xenogenesis, Butler tells
 the story of Lilith Iyapo, whose personal name recalls Adam's first and
 repudiated wife and whose family name marks her status as the widow of the
 son of Nigerian immigrants to the US. A black woman and a mother whose child
@@ -1567,12 +1567,12 @@ is dead, Lilith mediates the transformation of humanity through genetic
 exchange with extra-terrestrial lovers/rescuers/destroyers/genetic engineers,
 who reform earth's habitats after the nuclear holocaust and coerce surviving
 humans into intimate fusion with them. It is a novel that interrogates reproductive,
-linguishc, and nuclear politics in a mythic field structured by late twentieth-century
+linguistic, and nuclear politics in a mythic field structured by late twentieth-century
 race and gender.</p>
 
 
 
-<p>Because it is particularly rich in boundary transgressions, Vonda McIn-tyre's
+<p>Because it is particularly rich in boundary transgressions, Vonda McIntyre's
 Superluminal can close this truncated catalogue of promising and dangerous
 monsters who help redefine the pleasures and politics of embodiment and
 feminist writing. In a fiction where no character is 'simply' human, human
@@ -1587,14 +1587,14 @@ survival in transit at speeds exceeding that of light. Radu Dracul survives
 a virus-caused plague in his outerworld planet to find himself with a time
 sense that changes the boundaries of spatial perception for the whole species.
 All the characters explore the limits of language; the dream of communicating
-experience; and the necessity of limitation, partiality, and indmacy even
+experience; and the necessity of limitation, partiality, and intimacy even
 in this world of protean transformation and connection. Superluminal stands
 also for the defining contradictions of a cyborg world in another sense;
 it embodies textually the intersection of feminist theory and colonial discourse
 in the science fiction I have alluded to in this chapter. This is a conjunction
 with a long history that many 'First World' feminists have tried to repress,
 including myself in my readings of Superluminal before being called to account
-by Zoe Sofoulis, whose different location in the world system's informatics of domin-ation
+by Zoe Sofoulis, whose different location in the world system's informatics of domination
 made her acutely alert to the imperialist moment of all science fiction
 cultures, including women's science fiction. From an Australian feminist
 sensitivity, Sofoulis remembered more readily McIntyre's role as writer
@@ -1605,11 +1605,11 @@ her rewriting the romance in Superluminal.</p>
 
 <p>Monsters have always defined the limits of community in Western imaginations.
 The Centaurs and Amazons of ancient Greece established the limits of the
-centred polls of the Greek male human by their disruption of marriage and
+centered polis of the Greek male human by their disruption of marriage and
 boundary pollutions of the warrior with animality and woman. Unseparated
 twins and hermaphrodites were the confused human material in early modern
 France who grounded discourse on the natural and supernatural, medical and
-legal, portents and diseases -- all crucial to establishing modern identity.30
+legal, portents and diseases -- all crucial to establishing modern identity.
 The evolutionary and behavioural sciences of monkeys and apes have marked
 the multiple boundaries of late twentieth-century industrial identities.
 Cyborg monsters in feminist science fiction define quite different political
@@ -1630,7 +1630,7 @@ machine is us, our processes, an aspect of our embodiment. We can be responsible
 for machines; they do not dominate or threaten us. We are responsible for
 boundaries; we are they. Up till now (once upon a time), female embodiment
 seemed to be given, organic, necessary; and female embodiment seemed to
-mean skill in mothering and its metaphoric exten-sions. Only by being out
+mean skill in mothering and its metaphoric extensions. Only by being out
 of place could we take intense pleasure in machines, and then with excuses
 that this was organic activity after all, appropriate to females. Cyborgs
 might consider more seriously the partial, fluid, sometimes aspect of sex
@@ -1642,7 +1642,7 @@ if it has profound historical breadth and depth.</p>
 <p>The ideologically charged question of what counts as daily activity,
 as experience, can be approached by exploiting the cyborg image. Feminists
 have recently claimed that women are given to dailiness, that women more
-than men somehow sustain daily life, and so have a privileged epistemo-logical
+than men somehow sustain daily life, and so have a privileged epistemological
 position potentially. There is a compelling aspect to this claim, one that
 makes visible unvalued female activity and names it as the ground of life.</p>
 
@@ -1676,7 +1676,7 @@ first, the production of universal, totalizing theory is a major mistake
 that misses most of reality, probably always, but certainly now; and second,
 taking responsibility for the social relations of science and technology
 means refusing an anti-science metaphysics, a demonology of technology,
-and so means embracing the skilful task of reconstructing the boundaries
+and so means embracing the skillful task of reconstructing the boundaries
 of daily life, in partial connection with others, in communication with
 all of our parts. It is not just that science and technology are possible
 means of great human satisfaction, as well as a matrix of complex dominations.
