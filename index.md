@@ -902,14 +902,14 @@ progressive politics.</p>
 <p>The 'New Industrial Revolution' is producing a new world-wide working
 class, as well as new sexualities and ethnicities. The extreme mobility
 of capital and the emerging international division of labour are intertwined
-with the emergence of new collecdvities, and the weakening of familiar groupings.
+with the emergence of new collectivities, and the weakening of familiar groupings.
 These developments are neither gender- nor race-neutral. White men in advanced
 industrial societies have become newly vulnerable to permanent job loss,
 and women are not disappearing from the job rolls at the same rates as men.
 It is not simply that women in Third World countries are the preferred labour
 force for the science-based multinationals in the export-processing sectors,
 particularly in electronics. The picture is more systematic and involves
-reproduction, sexuality, culture, consumphon, and producdon. In the prototypical
+reproduction, sexuality, culture, consumption, and producdon. In the prototypical
 Silicon Valley, many women's lives have been structured around employment
 in electronics-dependent jobs, and their intimate realities include serial
 heterosexual monogamy, negotiating childcare, distance from extended kin
@@ -921,14 +921,14 @@ in culture, family, religion, education, and language.</p>
 
 
 <p>Richard Gordon has called this new situation the 'homework economy'.
-Although he includes the phenomenon of literal homework emerging in connecdon
+Although he includes the phenomenon of literal homework emerging in connection
 with electronics assembly, Gordon intends 'homework economy' to name a restructuring
 of work that broadly has the characteristics formerly ascribed to female
 jobs, jobs literally done only by women. Work is being redefined as both
 literally female and feminized, whether performed by men or women. To be
 feminized means to be made extremely vulnerable; able to be disassembled,
 reassembled, exploited as a reserve labour force; seen less as workers than
-as servers; subjected to dme arrangements on and off the paid job that make
+as servers; subjected to time arrangements on and off the paid job that make
 a mockery of a limited work day; leading an existence that always borders
 on being obscene, out of place, and reducible to sex. Deskilling is an old
 strategy newly applicable to formerly privileged workers. However, the homework
@@ -963,21 +963,21 @@ male income for the support of children-- has become an urgent focus. The
 causes of various women-headed households are a function of race, class,
 or sexuality; but their increasing generality is a ground for coalitions
 of women on many issues. That women regularly sustain daily life partly
-as a funcdon of their enforced status as mothers is hardly new; the kind
+as a function of their enforced status as mothers is hardly new; the kind
 of integration with the overall capitalist and progressively war-based economy
 is new. The particular pressure, for example, on US black women, who have
-achieved an escape from (barely) paid domeshc service and who now hold clerical
-and similar jobs in large numbers, has large implicadons for condnued enforced
+achieved an escape from (barely) paid domestic service and who now hold clerical
+and similar jobs in large numbers, has large implications for continued enforced
 black poverty with employment. Teenage women in industrializing areas of
 the Third World increasingly find themselves the sole or major source of
-a cash wage for their families, while access to land is ever more problemadc.
+a cash wage for their families, while access to land is ever more problematic.
 These developments must have major consequences in the psychodynamics and
 politics of gender and race.</p>
 
 
 
-<p>Within the framework of three major stages of capitalism (commercial/
-early industrial, monopoly, multinational) --tied to nationalism, imperialism,
+<p>Within the framework of three major stages of capitalism
+(commercial/early industrial, monopoly, multinational) --tied to nationalism, imperialism,
 and multinationalism, and related to Jameson's three dominant aesthetic
 periods of realism, modernism, and postmodernism --I would argue that specific
 forms of families dialectically relate to forms of capital and to its political
@@ -997,9 +997,9 @@ and erosion of gender itself.</p>
 
 <p>This is the context in which the projections for world-wide structural
 unemployment stemming from the new technologies are part of the picture
-of the homework economy. As robodcs and related technologies put men out
+of the homework economy. As robotics and related technologies put men out
 of work in 'developed' countries and exacerbate failure to generate male
-jobs in Third World 'development', and as the automated of fice becomes
+jobs in Third World 'development', and as the automated office becomes
 the rule even in labour-surplus countries, the feminization of work intensifies.
 Black women in the United States have long known what it looks like to face
 the structural underemployment ('feminization') of black men, as well as
@@ -1009,7 +1009,7 @@ with this economic structure in myriad ways which have also differentiated
 the situations of white and black women. Many more women and men will contend
 with similar situations, which will make cross-gender and race alliances
 on issues of basic life support (with or without jobs) necessary, not just
-mice.</p>
+nice.</p>
 
 <p>The new technologies also have a profound effect on hunger and on food
 production for subsistence world-wide. Rae Lessor Blumberg (1983) estimates
@@ -1023,19 +1023,19 @@ of labour and differential gender migration patterns.</p>
 
 
 
-<p>The new technologies seem deeply involved in the forms of'privatization'
+<p>The new technologies seem deeply involved in the forms of 'privatization'
 that Ros Petchesky (1981) has analysed, in which militarization, right-wing
 family ideologies and policies, and intensified definitions of corporate
 (and state) property as private synergistically interact. The new communications
 technologies are fundamental to the eradication of 'public life' for everyone.
 This facilitates the mushrooming of a permanent high-tech military establishment
 at the cultural and economic expense of most people, but especially of women.
-Technologies like video games and highly miniaturized televi-sions seem
+Technologies like video games and highly miniaturized televisions seem
 crucial to production of modern forms of 'private life'. The culture of
-video games is heavily orientated to individual compedtion and extraterrestrial
+video games is heavily orientated to individual competition and extraterrestrial
 warfare. High-tech, gendered imaginations are produced here, imaginations
 that can contemplate destruction of the planet and a sci-fi escape from
-its consequences. More than our imaginations is militarized; and the other
+its consequences. More than our imagination is militarized; and the other
 realities of electronic and nuclear warfare are inescapable. These are the
 technologies that promise ultimate mobility and perfect exchange-- and incidentally
 enable tourism, that perfect practice of mobility and exchange, to emerge
@@ -1053,12 +1053,12 @@ stories depend on a high-tech view of the body as a biotic component or
 cybernetic communications system. Among the many transformations of reproductive
 situations is the medical one, where women's bodies have boundaries newly
 permeable to both 'visualization' and 'intervention'. Of course, who controls
-the interpretation of bodily boundaries in medical hermeneubcs is a major
+the interpretation of bodily boundaries in medical hermeneutics is a major
 feminist issue. The speculum served as an icon of women's claiming their
 bodies in the 1970s; that handcraft tool is inadequate to express our needed
 body politics in the negotiation of reality in the practices of cyborg reproduction.
 Self-help is not enough. The technologies of visualization recall the important
-cultural practice of hundng with the camera and the deeply predatory nature
+cultural practice of hunting with the camera and the deeply predatory nature
 of a photographic consciousness. Sex, sexuality, and reproduction are
 central actors in high-tech myth systems structuring our imaginations of
 personal and social possibility.</p>
@@ -1086,7 +1086,7 @@ How can these groups be allied with progressive social and political movements?
 What kind of political accountability can be constructed to the women together
 across the scientific-technical hierarchies separating us? Might there be
 ways of developing feminist science/technology politics in alliance with
-and-military science facility conversion action groups? Many sciendfic and
+military science facility conversion action groups? Many scientific and
 technical workers in Silicon Valley, the high-tech cowboys included, do
 not want to work on military science. Can these personal preferences and
 cultural tendencies be welded into progressive politics among this professional
