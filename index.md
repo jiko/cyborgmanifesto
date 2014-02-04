@@ -301,11 +301,11 @@ another, avidity.)</p>
 of exclusion through naming is acute. Identities seem contradictory, partial,
 and strategic. With the hard-won recognition of their social and historical
 constitution, gender, race, and class cannot provide the basis for belief
-in 'essential' unity. There is nothing about teeing 'female' that naturally
+in 'essential' unity. There is nothing about being 'female' that naturally
 binds women. There is not even such a state as 'being' female, itself a
 highly complex category constructed in contested sexual scientific discourses
 and other social practices. Gender, race, or class consciousness is an achievement
-forced on us by the terrible historica experience of the contradictory social
+forced on us by the terrible historical experience of the contradictory social
 realities of patriarchy, colonialism, and capitalism. And who counts as
 'us' in my own rhetoric? Which identities are available to ground such a
 potent political myth called 'us', and what could motivate enlistment in
@@ -331,7 +331,7 @@ of color', a name contested at its origins by those whom it would incorporate,
 as well as a historical consciousness marking systematic breakdown of all
 the signs of Man in 'Western' traditions, constructs a kind of postmodernist
 identity out of otherness, difference, and specificity. This postmodernist
-identity is fully political, whatever might be said abut other possible
+identity is fully political, whatever might be said about other possible
 postmodernisms. Sandoval's oppositional consciousness is about contradictory
 locations and heterochronic calendars, not about relativisms and
 pluralisms.</p>
