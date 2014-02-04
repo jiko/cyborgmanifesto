@@ -371,8 +371,8 @@ of the disorderly polyphony emerging from decolonization.</p>
 
 
 
-<p>Katie King has emphasized the limits of identification and the political/
-poetic mechanics of identification built into reading 'the poem', that generative
+<p>Katie King has emphasized the limits of identification and the political/poetic
+mechanics of identification built into reading 'the poem', that generative
 core of cultural feminism. King criticizes the persistent tendency among
 contemporary feminists from different 'moments' or 'conversations' in feminist
 practice to taxonomize the women's movement to make one's own political
@@ -388,14 +388,14 @@ mechanisms inducing affinity. The rituals of poetry, music, and certain
 forms of academic practice have been pre-eminent. The politics of race and
 culture in the US women's movements are intimately interwoven. The common
 achievement of King and Sandoval is learning how to craft a poetic/political
-unity without relying on a logic of appropriation, incorpora-tion, and taxonomic
+unity without relying on a logic of appropriation, incorporation, and taxonomic
 identification.</p>
 
 
 
 <p>The theoretical and practical struggle against unity-through-domination
-or unity-through-incorporation ironically not only undermines the justifica-tions
-for patriarchy, colonialism, humanism, positivism, essentialism, scient-ism,
+or unity-through-incorporation ironically not only undermines the justifications
+for patriarchy, colonialism, humanism, positivism, essentialism, scientism,
 and other unlamented -isms, but all claims for an organic or natural standpoint.
 I think that radical and socialist/Marxist-feminisms have also undermined
 their/our own epistemological strategies and that this is a crucially valuable
@@ -426,7 +426,7 @@ for political unity to confront effectively the dominations of 'race', 'gender',
 'sexuality', and 'class'. I also do not know of any other time when the
 kind of unity we might help build could have been possible. None of 'us'
 have any longer the symbolic or material capability of dictating the shape
-of reality to any of'them'. Or at least 'we' cannot claim innocence from
+of reality to any of 'them'. Or at least 'we' cannot claim innocence from
 practicing such dominations. White women, including socialist feminists,
 discovered (that is, were forced kicking and screaming to notice) the non-innocence
 of the category 'woman'. That consciousness changes the geography of all
@@ -442,8 +442,8 @@ so prophetically ends salvation history.</p>
 
 
 
-<p>Both Marxist/socialist-feminisms and radical feminisms have simul-taneously
-naturalized and denatured the category 'woman' and conscious-ness of the
+<p>Both Marxist/socialist-feminisms and radical feminisms have simultaneously
+naturalized and denatured the category 'woman' and consciousness of the
 social lives of 'women'. Perhaps a schematic caricature can highlight both
 kinds of moves. Marxian socialism is rooted in an analysis of wage labour
 which reveals class structure. The consequence of the wage relationship
@@ -466,7 +466,7 @@ patriarchy. In particular, women's labour in the household and women's activity
 as mothers generally (that is, reproduction in the socialist-feminist sense),
 entered theory on the authority of analogy to the Marxian concept of labour.
 The unity of women here rests on an epistemology based on the ontological
-structure of'labour'. Marxist/socialist-feminism does not 'natur-alize'
+structure of'labour'. Marxist/socialist-feminism does not 'naturalize'
 unity; it is a possible achievement based on a possible standpoint rooted
 in social relations. The essentializing move is in the ontological structure
 of labour or of its analogue, women's activity. The inheritance of Marxian
@@ -489,16 +489,16 @@ field called radical feminism. The major effect is the production of a theory
 of experience, of women's identity, that is a kind of apocalypse for
 all revolutionary standpoints. That is, the totalization built into this
 tale of radical feminism achieves its end - the unity of women - by enforcing
-the experience of and testimony to radical non-being. As for the Marxist/
-socialist feminist, consciousness is an achievement, not a natural fact.
+the experience of and testimony to radical non-being. As for the Marxist/socialist
+feminist, consciousness is an achievement, not a natural fact.
 And MacKinnon's theory eliminates some of the difficulties built into humanist
 revolutionary subjects, but at the cost of radical reductionism.</p>
 
 
 
-<p>MacKinnon argues that feminism necessarily adopted a different analyt-ical
+<p>MacKinnon argues that feminism necessarily adopted a different analytical
 strategy from Marxism, looking first not at the structure of class, but
-at the structure of sex/gender and its generative relationship, men's constitu-tion
+at the structure of sex/gender and its generative relationship, men's constitution
 and appropriation of women sexually. Ironically, MacKinnon's 'ontology'
 constructs a non-subject, a non-being. Another's desire, not the self's
 labour, is the origin of 'woman'. She therefore develops a theory of consciousness
@@ -509,9 +509,9 @@ is, the self-knowledge of a self-who-is-not.</p>
 
 
 
-<p>Perversely, sexual appropriation in this feminism still has the epistemolo-gical
+<p>Perversely, sexual appropriation in this feminism still has the epistemological
 status of labour; that is to say, the point from which an analysis able
-to contribute to changing the world must flow. But sexual object)fication,
+to contribute to changing the world must flow. But sexual objectification,
 not alienation, is the consequence of the structure of sex/gender. In the
 realm of knowledge, the result of sexual objectification is illusion and
 abstraction. However, a woman is not simply alienated from her product,
@@ -547,7 +547,7 @@ of domination and ignorance of social and personal reality 'false consciousness'
 
 
 
-<p>Beyond either the diff~culties or the contributions in the argument of
+<p>Beyond either the difficulties or the contributions in the argument of
 any one author, neither Marxist nor radical feminist points of view have
 tended to embrace the status of a partial explanation; both were regularly
 constituted as totalities. Western explanation has demanded as much; how
