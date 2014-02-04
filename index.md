@@ -666,7 +666,7 @@ have called the informatics of domination:</p>
   <TD WIDTH="50%">Organic sex role specialization</TD>
   <TD WIDTH="50%">Optimal genetic strategies</TD></TR>
 <TR>
-  <TD WIDTH="50%">Bioogical determinism</TD>
+  <TD WIDTH="50%">Biogical determinism</TD>
   <TD WIDTH="50%">Evolutionary inertia, constraints</TD></TR>
 <TR>
   <TD WIDTH="50%">Community ecology</TD>
@@ -688,10 +688,10 @@ have called the informatics of domination:</p>
   <TD WIDTH="50%">Cyborg citizenship</TD></TR>
 <TR>
   <TD WIDTH="50%">Nature/Culture</TD>
-  <TD WIDTH="50%">fields of difference</TD></TR>
+  <TD WIDTH="50%">Fields of difference</TD></TR>
 <TR>
   <TD WIDTH="50%">Co-operation</TD>
-  <TD WIDTH="50%">Communicatins enhancemenet</TD></TR>
+  <TD WIDTH="50%">Communications enhancement</TD></TR>
 <TR>
   <TD WIDTH="50%">Freud</TD>
   <TD WIDTH="50%">Lacan</TD></TR>
@@ -699,7 +699,7 @@ have called the informatics of domination:</p>
   <TD WIDTH="50%">Sex</TD>
   <TD WIDTH="50%">Genetic engineering</TD></TR>
 <TR>
-  <TD WIDTH="50%">labour</TD>
+  <TD WIDTH="50%">Labour</TD>
   <TD WIDTH="50%">Robotics</TD></TR>
 <TR>
   <TD WIDTH="50%">Mind</TD>
@@ -717,7 +717,7 @@ have called the informatics of domination:</p>
 <p>This list suggests several interesting things. First, the objects on
 the right-hand side cannot be coded as 'natural', a realization that subverts
 naturalistic coding for the left-hand side as well. We cannot go back ideologically
-or materially. It's not just that igod'is dead; so is the 'goddess'. Or
+or materially. It's not just that 'god' is dead; so is the 'goddess'. Or
 both are revivified in the worlds charged with microelectronic and biotechnological
 politics. In relation to objects like biotic components, one must not think
 in terms of essential properties, but in terms of design, boundary constraints,
@@ -765,7 +765,7 @@ with any other if the proper standard, the proper code, can be constructed
 for processing signals in a common language. Exchange in this world transcends
 the universal translation effected by capitalist markets that Marx analysed
 so well. The privileged pathology affecting all kinds of components in this
-universe is stress - communications breakdown (Hogness, 1983). The cyborg
+universe is stress- communications breakdown (Hogness, 1983). The cyborg
 is not subject to Foucault's biopolitics; the cyborg simulates politics,
 a much more potent field of operations.</p>
 
@@ -779,11 +779,11 @@ since Aristotle still ruled. They have been cannibalized, or as Zoe Sofia
 (Sofoulis) might put it, they have been 'techno-digested'. The dichotomies
 between mind and body, animal and human, organism and machine, public and
 private, nature and culture, men and women, primitive and civilized are
-all in question ideologically. The actual situation of women is their integration/
-exploitation into a world system of production/reproduction and com-munication
+all in question ideologically. The actual situation of women is their
+integration/exploitation into a world system of production/reproduction and communication
 called the informatics of domination. The home, workplace, market, public
 arena, the body itself- all can be dispersed and interfaced in nearly infinite,
-polymorphous ways, with large consequences for women and others - consequences
+polymorphous ways, with large consequences for women and others- consequences
 that themselves are very different for different people and which make potent
 oppositional international movements difficult to imagine and essential
 for survival. One important route for reconstructing socialist-feminist
@@ -806,7 +806,7 @@ and tool mutually constitute each other.</p>
 
 
 <p>Furthermore, communications sciences and modern biologies are constructed
-by a common move - the translation of the world into a problem of coding,
+by a common move- the translation of the world into a problem of coding,
 a search for a common language in which all resistance to instrumental control
 disappears and all heterogeneity can be submitted to disassembly, reassembly,
 investment, and exchange.</p>
@@ -816,7 +816,7 @@ investment, and exchange.</p>
 <p>In communications sciences, the translation of the world into a problem
 in coding can be illustrated by looking at cybernetic (feedback-controlled)
 systems theories applied to telephone technology, computer design, weapons
-deployment, or data base construction and maintenance. In each case, solution
+deployment, or data base construction and maintenance. In each case, solutions
 to the key questions rests on a theory of language and control; the key
 operation is determining the rates, directions, and probabilities of flow
 of a quantity called information. The world is subdivided by boundaries
@@ -825,14 +825,14 @@ quantifiable element (unit, basis of unity) which allows universal translation,
 and so unhindered instrumental power (called effective communication). The
 biggest threat to such power is interruption of communication. Any system
 breakdown is a function of stress. The fundamentals of this technology can
-be condensed into the metaphor C31, command-controlcommunication-intelligence,
+be condensed into the metaphor C3I, command-control-communication-intelligence,
 the military's symbol for its operations theory.</p>
 
 
 
 <p>In modern biologies, the translation of the world into a problem in coding
 can be illustrated by molecular genetics, ecology, sociobiological evolutionary
-theory, and immunobiology. The organism has been translated into prob-lems
+theory, and immunobiology. The organism has been translated into problems
 of genetic coding and read-out. Biotechnology, a writing technology, informs
 research broadly. In a sense, organisms have ceased to exist as objects
 of knowledge, giving way to biotic components, i.e., special kinds of information-processing
@@ -843,7 +843,8 @@ systems as objects of knowledge, as constructions of bodily reality for
 us. Biology here is a kind of cryptography. Research is necessarily a kind
 of intelligence activity. Ironies abound. A stressed system goes awry; its
 communication processes break down; it fails to recognize the difference
-between self and other. Human babies with baboon hearts evoke national ethical perplexity-- for animal rights activists
+between self and other. Human babies with baboon hearts evoke national ethical perplexity--
+for animal rights activists
 at least as much as for the guardians of human purity. In the US gay men
 and intravenous drug users are the 'privileged' victims of an awful immune
 system disease that marks (inscribes on the body) confusion of boundaries
@@ -852,11 +853,11 @@ and moral pollution (Treichler, 1987).</p>
 
 <p>But these excursions into communications sciences and biology have been
 at a rarefied level; there is a mundane, largely economic reality to support
-my claim that these sciences and technologies indicate fundamental transforma-tions
+my claim that these sciences and technologies indicate fundamental transformations
 in the structure of the world for us. Communications technologies depend
 on electronics. Modern states, multinational corporations, military power,
-welfare state apparatuses, satellite systems, political processes, fabrication
-of our imaginations, labour-control systems, medical construc-tions of our
+welfare state apparatuses, satellite systems, political processes, fabrications
+of our imaginations, labour-control systems, medical constructions of our
 bodies, commercial pornography, the international division of labour, and
 religious evangelism depend intimately upon electronics. Micro-electronics
 is the technical basis of simulacra; that is, of copies without originals.</p>
@@ -866,10 +867,10 @@ is the technical basis of simulacra; that is, of copies without originals.</p>
 <p>Microelectronics mediates the translations of labour into robotics and
 word processing, sex into genetic engineering and reproductive technologies,
 and mind into artificial intelligence and decision procedures. The new biotechnologies
-concern more than human reproducdon. Biology as a powerful engineering science
+concern more than human reproduction. Biology as a powerful engineering science
 for redesigning materials and processes has revolutionary implications for
-industry, perhaps most obvious today in areas of fermentadon, agriculture,
-and energy. Communicadons sciences and biology are construcdons of natural-technical
+industry, perhaps most obvious today in areas of fermentation, agriculture,
+and energy. Communications sciences and biology are construcdons of natural-technical
 objects of knowledge in which the difference between machine and organism
 is thoroughly blurred; mind, body, and tool are on very intimate terms.
 The 'multinational' material organization of the production and reproduction
