@@ -1103,7 +1103,7 @@ fairly numerous?</p>
 <p>Let me summarize the picture of women's historical locations in advanced
 industrial societies, as these positions have been restructured partly through
 the social relations of science and technology. If it was ever possible
-ideologically to characterize women's lives by the disdnction of public
+ideologically to characterize women's lives by the distinction of public
 and private domains-- suggested by images of the division of working-class
 life into factory and home, of bourgeois life into market and home, and
 of gender existence into personal and political realms --it is now a totally
@@ -1128,14 +1128,14 @@ and practical work. However, there is no 'place' for women in these networks,
 only geometries of difference and contradiction crucial to women's cyborg
 identities. If we learn how to read these webs of power and social life,
 we might learn new couplings, new coalitions. There is no way to read the
-following list from a standpoint of'idendfication', of a unitary self. The
+following list from a standpoint of'identification', of a unitary self. The
 issue is dispersion. The task is to survive in the diaspora.</p>
 
 
 
 <p>Home: Women-headed households, serial monogamy, flight of men, old women
 alone, technology of domestic work, paid homework, re-emergence of home
-sweat-shops, home-based businesses and telecom-muting, electronic cottage,
+sweat-shops, home-based businesses and telecommuting, electronic cottage,
 urban homelessness, migration, module architecture, reinforced (simulated)
 nuclear family, intense domestic violence.</p>
 
@@ -1177,7 +1177,7 @@ and political power broadly in the form of information rich/information
 poor differentiation; increased high-tech militarization increasingly opposed
 by many social groups; reduction of civil service jobs as a result of the
 growing capital intensification of office work, with implications for occupational
-mobility for women of colour; growing privadzation of material and ideological
+mobility for women of colour; growing privatization of material and ideological
 life and culture; close integration of privatization and militarization,
 the high-tech forms of bourgeois capitalist personal and public life; invisibility
 of different social groups to each other, linked to psychological mechanisms
@@ -1185,15 +1185,12 @@ of belief in abstract enemies.</p>
 
 
 
-<p>School: Deepening coupling of high-tech capital needs and public educa-tion
+<p>School: Deepening coupling of high-tech capital needs and public education
 at all levels, differentiated by race, class, and gender; managerial classes
-involved in educational reform and refunding at the cost of</p>
-
-
-
-<p>remaining progressive educational democratic structures for children
+involved in educational reform and refunding at the cost of
+remaining progressive educational democratic structures for children
 and teachers; education for mass ignorance and repression in technocratic
-and militarized culture; growing and-science mystery cults in dissendng
+and militarized culture; growing science mystery cults in dissenting
 and radical political movements; continued relative scientific illiteracy
 among white women and people of colour; growing industrial direction of
 education (especially higher education) by science-based multinationals
@@ -1228,7 +1225,7 @@ intensification of insecurity and cultural impoverishment, with common failure
 of subsistence networks for the most vulnerable. Since much of this picture
 interweaves with the social relations of science and technology, the urgency
 of a socialist-feminist politics addressed to science and technology is
-plain. There is much now being tione, and the grounds for political work
+plain. There is much now being done, and the grounds for political work
 are rich. For example, the efforts to develop forms of collecdve struggle
 for women in paid work, like SEIU's District 925,<sup><a id="ref3" href="#note3">[3]</a></sup>
 should be a high priority
@@ -1241,7 +1238,7 @@ largely white male industrial unions.</p>
 
 
 <p>The structural rearrangements related to the social relations of science
-and technology evoke strong ambivalence. But it is not necessary to be uldmately
+and technology evoke strong ambivalence. But it is not necessary to be ultimately
 depressed by the implications of late twentieth-century women's relation
 to all aspects of work, culture, production of knowledge, sexuality, and
 reproduction. For excellent reasons, most Marxisms see domination best and
@@ -1249,9 +1246,9 @@ have trouble understanding what can only look like false consciousness and
 people's complicity in their own domination in late capitalism. It is crucial
 to remember that what is lost, perhaps especially from women's points of
 view, is often virulent forms of oppression, nostalgically naturalized in
-the face of current violation. Ambivalence towards the disrupted unides
+the face of current violation. Ambivalence towards the disrupted unities
 mediated by high-tech culture requires not sorting consciousness into categories
-of clear-sighted critique grounding a solid political epistemology'</p>
+of clear-sighted critique grounding a solid political epistemology.</p>
 
 
 
@@ -1263,14 +1260,14 @@ across race, gender, and class, as these elementary units of socialist-feminist
 analysis themselves suffer protean transformations. Intensifications of
 hardship experienced world-wide in connection with the social relations
 of science and technology are severe. But what people are experiencing is
-not transparently clear, and we lack aufficiently subtle connections for
+not transparently clear, and we lack sufficiently subtle connections for
 collectively building effective theories of experience. Present efforts
 - Marxist, psychoanalytic, feminist, anthropological-- to clarify even 'our'
 experience are rudimentary.</p>
 
 
 
-<p>I am conscious of the odd perspecdve provided by my historical position
+<p>I am conscious of the odd perspective provided by my historical position
 - a PhD in biology for an Irish Catholic girl was made possible by Sputnik's
 impact on US national science-education policy. I have a body and mind as
 much constructed by the post-Second World War arms race and cold war as
@@ -1281,7 +1278,7 @@ on the present defeats.</p>
 
 
 
-<p>The permanent pardality of feminist points of view has consequences for
+<p>The permanent partiality of feminist points of view has consequences for
 our expectations of forms of political organization and participation. We
 do not need a totality in order to work well. The feminist dream of a common
 language, like all dreams for a perfectly true language, of perfectly faithful
