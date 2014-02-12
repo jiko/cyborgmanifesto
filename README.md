@@ -7,6 +7,6 @@ Go code yanked from the [Codewalk Markov chain example](http://golang.org/doc/co
 
 To use this bot, you need a four-line file called `CREDS` in the directory where you run the bot. `CREDS` must contain your Consumer Key, Consumer Secret, Access Token, and Access Token Secret, in that order, separated by new lines. To get those visit https://dev.twitter.com. To run the bot, use standard in, so on a Unix system:
 
-  cyborgmanifesto < aCyborgManifesto.txt
+    cyborgmanifesto < aCyborgManifesto.txt
 
-I'm new to Go, but I think if you clone this repo and run `go install` your should get an executable with the name of this repository, unless you changed the name when you cloned it. If you `go get github.com/jiko/cyborgmanifesto` and then `go install github.com/jiko/cyborgmanifesto` you should have a `cyborgmanifesto` executable in `$GOPATH/bin`. [How to Write Go Code](http://golang.org/doc/code.html), and the Go documentation in general, clarifies matters well.
+I'm new to Go, but I think if you clone this repo, cd into it, and run `go install` you should get an executable with the name of this repository, unless you changed the name when you cloned it. If you `go get github.com/jiko/cyborgmanifesto` and then `go install github.com/jiko/cyborgmanifesto` you should have a `cyborgmanifesto` executable in `$GOPATH/bin`. [How to Write Go Code](http://golang.org/doc/code.html), and the Go documentation in general, clarify matters well.
