@@ -138,7 +138,7 @@ func LoadCredentials() (client *twittergo.Client, err error) {
 func main() {
 	// Register command-line flags.
 	numWords := flag.Int("words", 18, "maximum number of words to print")
-	prefixLen := flag.Int("prefix", 2, "prefix length in words")
+	prefixLen := flag.Int("prefix", 1, "prefix length in words")
 
 	flag.Parse()                     // Parse command-line flags.
 	rand.Seed(time.Now().UnixNano()) // Seed the random number generator.
