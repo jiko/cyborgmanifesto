@@ -466,7 +466,7 @@ patriarchy. In particular, women's labour in the household and women's activity
 as mothers generally (that is, reproduction in the socialist-feminist sense),
 entered theory on the authority of analogy to the Marxian concept of labour.
 The unity of women here rests on an epistemology based on the ontological
-structure of'labour'. Marxist/socialist-feminism does not 'naturalize'
+structure of 'labour'. Marxist/socialist-feminism does not 'naturalize'
 unity; it is a possible achievement based on a possible standpoint rooted
 in social relations. The essentializing move is in the ontological structure
 of labour or of its analogue, women's activity. The inheritance of Marxian
