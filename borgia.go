@@ -107,10 +107,15 @@ func (c *Chain) Build(r io.Reader) {
 // Generate returns a string of at most n words generated from Chain.
 func (c *Chain) Generate(n int) string {
 	p := make(Prefix, c.prefixLen)
+	for start := range c.chain {
+		p[0] = strings.Fields(start)[0]
+		p[1] = strings.Fields(start)[1]
+		break
+	}
 	var words []string
 	for i := 0; i < n; i++ {
 		choices := c.chain[p.String()]
-		if len(choices) == 0 {
+		if len(choices) < 1 {
 			break
 		}
 		next := choices[rand.Intn(len(choices))]
@@ -137,8 +142,8 @@ func LoadCredentials() (client *twittergo.Client, err error) {
 
 func main() {
 	// Register command-line flags.
-	numWords := flag.Int("words", 18, "maximum number of words to print")
-	prefixLen := flag.Int("prefix", 1, "prefix length in words")
+	numWords := flag.Int("words", 17, "maximum number of words to print")
+	prefixLen := flag.Int("prefix", 2, "prefix length in words")
 
 	flag.Parse()                     // Parse command-line flags.
 	rand.Seed(time.Now().UnixNano()) // Seed the random number generator.
